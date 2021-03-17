@@ -1,5 +1,5 @@
 Hi there 👋
-I Am A Software Engineer and FullStack Developer working JavaScript 💛 and Flutter 💙
+I Am A Software Engineer working JavaScript 💛 and Flutter 💙
 Here are some ideas to get you started:
 
 🔭 I’m currently working on ... Side Projects 💻💡💡💡
