@@ -1,6 +1,6 @@
 Hi there 👋
 I Am A Software Engineer working JavaScript 💛 and Flutter 💙
-Here are some ideas to get you started:
+ABOUT ME 👇👇👇
 
 🔭 I’m currently working on ... Side Projects 💻💡💡💡
 
