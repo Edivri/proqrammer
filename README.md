@@ -1,3 +1,3 @@
 Hi there 👋 <br> 
-I Am A Blockchain and Software Developer working JavaScript 💛 TypeScript 💜 Solidity🖤, Swift and Flutter 💙
+I Am A Blockchain and Software Developer working JavaScript 💛 TypeScript 💜 Solidity🖤  and Flutter 💙
 
