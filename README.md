@@ -1,6 +1,17 @@
-Hi there 👋 
-I Am A Blockchain and Software Developer working JavaScript 💛 TypeScript 💜 Solidity🖤  and Flutter 💙
+### Hi there 👋, I'm Benjamin
+![](https://pbs.twimg.com/profile_banners/860357608552763393/1593430830/1500x500)
 
-<br> 
+I Am A Blockchain and Software Developer
 
-I Play with Vanilla JavaScript and CSS 3 whenever I'm bored 
+Skills: 💙 Flutter / Dart / M.E.R.N Stack / NextJS / TypeScript / Solidity
+
+- 👯 I’m looking to collaborate on Usable & Scalable Software Development 
+- 💬 Ask me about Decentralized Application Development and Writing Smart Contracts
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/proqrammer)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='18'>](https://twitter.com/proqrammer)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='18'>](https://proqrammer.tech)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=proqrammer&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/proqrammer)  
+
