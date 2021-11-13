@@ -4,7 +4,7 @@
 ## I Am A Blockchain and Software Developer <br>
 With a thorough understanding of software design principles and patterns, <br>
 Data Structures and Algorithms,<br>
-API Design and Best Practices.
+API Design, AWS Severless APIs and Best Practices.
  
 ### Skills: 💙 Flutter / Dart / M.E.R.N Stack / NextJS / TypeScript / Solidity
 
