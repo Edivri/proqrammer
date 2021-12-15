@@ -6,7 +6,7 @@ With a thorough understanding of software design principles and patterns/archite
 Data Structures and Algorithms,<br>
 API Design, AWS Severless APIs and Best Practices.
  
-### Skills: 💙 Flutter / M.E.R.N Stack / NextJS / TypeScript / Solidity
+### Skills: 💙 Flutter / 💜 Kotlin / 🧡 Swift / M.E.R.N Stack / NextJS / TypeScript / Solidity
 
 - 👯 I’m looking to collaborate on Usable & Scalable Software Development 
 - 💬 Ask me about MERN Stack, Web 3.0, Decentralized Application Development, Smart Contracts & FLUTTER
