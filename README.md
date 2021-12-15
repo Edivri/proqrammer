@@ -9,7 +9,7 @@ API Design, AWS Severless APIs and Best Practices.
 ### Skills: 💙 Flutter / 💜 Kotlin / 🧡 Swift / M.E.R.N Stack / NextJS / TypeScript / Solidity
 
 - 👯 I’m looking to collaborate on Usable & Scalable Software Development 
-- 💬 Ask me about MERN Stack, Web 3.0, Decentralized Application Development, Smart Contracts & FLUTTER
+- 💬 Ask me about Design Patterns, Decentralized Application Development, NFTs & FLUTTER
 - 😁 Sometimes I Write Static Websites with Vanilla JavaScript and CSS3 when I'm bored ( for the thrill of it)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/proqrammer)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='18'>](https://twitter.com/proqrammer)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='18'>](https://proqrammer.tech)  
