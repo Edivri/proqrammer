@@ -7,6 +7,7 @@ Data Structures and Algorithms,<br>
 API Design, AWS Severless APIs and Best Practices.
  
 ### Skills: 💙 Flutter/ M.E.R.N Stack / NextJS / TypeScript / Solidity
+### Architecture: MVC / MicroFrontend / JAMStack
 
 - 👯 I’m looking to collaborate on Usable & Scalable Software Development 
 - 💬 Ask me about Design Patterns, Decentralized Application Development, NFTs & FLUTTER
