@@ -6,7 +6,7 @@ With a thorough understanding of software design principles, patterns and archit
 API Design and Best Practices (AWS Severless APIs, GraphQL, REST, Mocky, Postman, MockAPI)
  
 ### Skills: 💙 Flutter / Kotlin / SwiftUI / M.E.R.N Stack / NextJS / TypeScript / Solidity
-### Architecture: MVC / BLoC / CLEAN / Microservices
+### Architecture: MVC / BLoC / MVVM / CLEAN / Microservices
 
 - 👯 I’m looking to collaborate on Usable & Scalable Software Development 
 - 💬 Ask me about Design Patterns, Decentralized Application Development, NFTs & FLUTTER
