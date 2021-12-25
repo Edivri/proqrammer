@@ -3,11 +3,10 @@
 
 ## I Am A Software Developer <br>
 With a thorough understanding of software design principles and patterns/architecture, <br>
-Data Structures and Algorithms,<br>
-API Design, AWS Severless APIs and Best Practices.
+AWS Severless APIs, API Design and Best Practices.
  
-### Skills: 💙 Flutter/ M.E.R.N Stack / NextJS / TypeScript / Solidity
-### Architecture: MVC / MicroFrontend / JAMStack
+### Skills: 💙 Flutter / Kotlin / SwiftUI / M.E.R.N Stack / NextJS / TypeScript / Solidity
+### Architecture: MVC / BLoC / CLEAN
 
 - 👯 I’m looking to collaborate on Usable & Scalable Software Development 
 - 💬 Ask me about Design Patterns, Decentralized Application Development, NFTs & FLUTTER
