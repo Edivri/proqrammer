@@ -3,7 +3,7 @@
 
 ## I Am A Software Developer <br>
 With a thorough understanding of software design principles, patterns and architectures, <br>
-API Design and Best Practices (AWS Severless APIs, Postman, GraphQL, REST)
+API Design and Best Practices (AWS Severless APIs, GraphQL, REST, Mocky, Postman, MockAPI)
  
 ### Skills: 💙 Flutter / Kotlin / SwiftUI / M.E.R.N Stack / NextJS / TypeScript / Solidity
 ### Architecture: MVC / BLoC / CLEAN / Microservices
