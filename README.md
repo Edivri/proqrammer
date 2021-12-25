@@ -2,8 +2,8 @@
 ![](https://pbs.twimg.com/profile_banners/860357608552763393/1593430830/1500x500)
 
 ## I Am A Software Developer <br>
-With a thorough understanding of software design principles and patterns/architecture, <br>
-AWS Severless APIs, API Design and Best Practices.
+With a thorough understanding of software design principles, patterns and architectures, <br>
+API Design and Best Practices (AWS Severless APIs, Postman, GraphQL, REST)
  
 ### Skills: 💙 Flutter / Kotlin / SwiftUI / M.E.R.N Stack / NextJS / TypeScript / Solidity
 ### Architecture: MVC / BLoC / CLEAN / Microservices
