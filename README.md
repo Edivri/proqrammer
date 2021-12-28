@@ -7,7 +7,7 @@ Data Structures and Algorithms  <br>
 API Design and Best Practices (GraphQL, REST, Mocky, Postman, MockAPI)
 ### Skills: 💙 Flutter / Kotlin / SwiftUI / M.E.R.N Stack / NextJS / TypeScript / Solidity
 ### Principles: OOP / SOLID / Dependency (Inversion, Injection)
-### Architecture: MVC / BLoC / MVVM / CLEAN / Microservices
+### Architecture: MVC / BLoC / MVVM / CLEAN / Microservices / Micro-Frontend
 
 - 👯 I’m looking to collaborate on Usable & Scalable Software Development 
 - 💬 Ask me about Design Patterns, Decentralized Application Development, NFTs & FLUTTER
