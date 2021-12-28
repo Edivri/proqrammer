@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Benjamin
 ![](https://pbs.twimg.com/profile_banners/860357608552763393/1593430830/1500x500)
 
-## I Am A Software Developer <br>
+## I Am A Software Engineer <br>
 With a thorough understanding of software design principles, patterns and architectures, <br>
 API Design and Best Practices (GraphQL, REST, Mocky, Postman, MockAPI)
 ### Skills: 💙 Flutter / Kotlin / SwiftUI / M.E.R.N Stack / NextJS / TypeScript / Solidity
