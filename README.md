@@ -3,6 +3,7 @@
 
 ## I Am A Software Engineer <br>
 With a thorough understanding of software design principles, patterns and architectures, <br>
+Data Structures and Algorithms  <br>
 API Design and Best Practices (GraphQL, REST, Mocky, Postman, MockAPI)
 ### Skills: 💙 Flutter / Kotlin / SwiftUI / M.E.R.N Stack / NextJS / TypeScript / Solidity
 ### Principles: OOP / SOLID / Dependency (Inversion, Injection)
