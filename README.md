@@ -1,13 +1,13 @@
 # Hi there 👋, I'm Benjamin
 ![](https://pbs.twimg.com/profile_banners/860357608552763393/1593430830/1500x500)
 
-## I Am A Software Engineer <br>
+## I Am A Mobile Engineer <br>
 With a thorough understanding of software design principles, patterns and architectures, <br>
 Data Structures and Algorithms  <br>
-API Design and Best Practices (GraphQL, REST, Mocky, Postman, MockAPI)
-### Skills: 💙 Flutter / Kotlin / SwiftUI / M.E.R.N Stack / NextJS / TypeScript / Solidity
+API Design and Best Practices (REST, Mocky, Postman, MockAPI)
+### Skills: 💙 Flutter / Kotlin / Java / Swift / JavaScript / NextJS / Solidity
 ### Principles: OOP / SOLID / Dependency (Inversion, Injection)
-### Architecture: MVC / BLoC / MVVM / CLEAN / Microservices / Micro-Frontend
+### Architecture: MVC / BLoC / MVVM / CLEAN / Microservices
 
 - 👯 I’m looking to collaborate on Usable & Scalable Software Development 
 - 💬 Ask me about Design Patterns, Decentralized Application Development, NFTs & FLUTTER
