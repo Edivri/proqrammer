@@ -4,8 +4,9 @@
 ## I Am A Mobile Engineer <br>
 With a thorough understanding of software design principles, patterns and architectures, <br>
 Data Structures and Algorithms  <br>
-API Design and Best Practices (REST, Mocky, Postman, MockAPI)
-### Skills: 💙 Flutter / Kotlin / Java / Swift / JavaScript / NextJS / Solidity
+API Design and Best Practices (REST, Mocky, Postman, MockAPI) <br>
+
+### Skills: 💙 Flutter / Kotlin / Java / Swift / JavaScript
 ### Principles: OOP / SOLID / Dependency (Inversion, Injection)
 ### Architecture: MVC / BLoC / MVVM / CLEAN / Microservices
 
