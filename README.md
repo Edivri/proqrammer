@@ -6,7 +6,7 @@ With a thorough understanding of software design principles, patterns and archit
 Data Structures and Algorithms  <br>
 API Design and Best Practices (REST, Mocky, Postman, MockAPI) <br>
 
-### Skills: 💙 Flutter / Kotlin / Java / Swift / JavaScript
+### Skills: 💙 Flutter / Kotlin / Java / Swift / TypeScript
 ### Principles: OOP / SOLID / Dependency (Inversion, Injection)
 ### Architecture: MVC / BLoC / MVVM / CLEAN / Microservices
 
