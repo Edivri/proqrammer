@@ -2,7 +2,7 @@
 ## I Am A Mobile Developer <br>
 With a thorough understanding of software design principles, patterns and architectures, <br>
 Data Structures and Algorithms  <br>
-API Design and Best Practices (REST, Mocky, Postman, MockAPI) <br>
+API Design and Best Practices (REST, GraphQL, Mocky, Postman, MockAPI) <br>
 
 ### Principles: OOP / SOLID / Dependency (Inversion, Injection)
 ### Architecture: MVC / BLoC / MVVM / CLEAN
