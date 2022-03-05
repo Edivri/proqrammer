@@ -5,11 +5,12 @@ Data Structures and Algorithms  <br>
 API Design and Best Practices (REST, GraphQL, Mocky, Postman, MockAPI) <br>
 
 ### Architecture: MVC / BLoC / MVVM / CLEAN
-### Skills: Dart / Kotlin / Java / Swift / NodeJs / TypeScript / Figma UI-UX / Motion Design
-### ToolKit: Flutter 💙 / SwiftUI 🧡 / Jetpack Compose 💚
+
+### ToolKit: Flutter 💙 / SwiftUI 🧡 / Jetpack Compose 💚 / Figma UI-UX / Motion Design
 ## 🛠&nbsp;Tech Stack
-![Dart](https://img.shields.io/badge/-Dart-ffffff?style=flat&logo=dart&logoColor=007ACC)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-ffffff?style=flat&logo=kotlin&logoColor=007ACC)&nbsp;
 ![Swift](https://img.shields.io/badge/-Swift-ffffff?style=flat&logo=swift&logoColor=007ACC)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-ffffff?style=flat&logo=dart&logoColor=007ACC)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-ffffff?style=flat&logo=flutter&logoColor=007ACC)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat&logo=javascript&logoColor=fad63d)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-ffffff?style=flat&logo=typescript&logoColor=fad63d)&nbsp;
