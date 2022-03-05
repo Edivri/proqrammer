@@ -9,6 +9,7 @@ API Design and Best Practices (REST, GraphQL, Mocky, Postman, MockAPI) <br>
 ### ToolKit: Flutter 💙 / SwiftUI 🧡 / Jetpack Compose 💚
 ## 🛠&nbsp;Tech Stack
 ![Dart](https://img.shields.io/badge/-Dart-ffffff?style=flat&logo=dart&logoColor=007ACC)&nbsp;
+![Swift](https://img.shields.io/badge/-Swift-ffffff?style=flat&logo=swift&logoColor=007ACC)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-ffffff?style=flat&logo=flutter&logoColor=007ACC)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat&logo=javascript&logoColor=fad63d)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-ffffff?style=flat&logo=node.js)&nbsp;
