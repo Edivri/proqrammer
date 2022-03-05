@@ -5,7 +5,6 @@ Data Structures and Algorithms  <br>
 API Design and Best Practices (REST, GraphQL, Mocky, Postman, MockAPI) <br>
 
 ### Architecture: MVC / BLoC / MVVM / CLEAN
-
 ### ToolKit: Flutter 💙 / SwiftUI 🧡 / Jetpack Compose 💚 / Figma UI-UX / Motion Design
 ## 🛠&nbsp;Tech Stack
 ![Kotlin](https://img.shields.io/badge/-Kotlin-ffffff?style=flat&logo=kotlin&logoColor=007ACC)&nbsp;
