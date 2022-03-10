@@ -6,7 +6,7 @@ API Design and Best Practices (REST, GraphQL, Mocky, Postman, MockAPI) <br>
 
 ### Architecture: MVC / BLoC / MVVM / CLEAN
 ### ToolKit: Flutter 💙 / SwiftUI 🧡 / Jetpack Compose 💚 / Figma
-## Test/Automation: Appium Framework  / WebdriverIO Framework / Cucumber Behavior-Driven Development Framework
+### Test(Automation): Appium Framework  / WebdriverIO Framework / Cucumber Behavior-Driven Development 
 ## 🛠&nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/-Java-ffffff?style=flat&logo=java&logoColor=007ACC)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-ffffff?style=flat&logo=kotlin&logoColor=007ACC)&nbsp;
