@@ -29,6 +29,7 @@ With over 4+ years of experience, I plan, build and test beautiful, stable and h
 ![SQL](https://shields.io/badge/-SQL-ffffff?style=flat&logo=sql)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ffffff?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Android  Studio](https://img.shields.io/badge/-Android%20Studio-ffffff?style=flat&logo=android-studio&logoColor=007ACC)&nbsp;
+![XCode](https://img.shields.io/badge/-XCode-ffffff?style=flat&logo=xcode&logoColor=007ACC)&nbsp;
 
 ## &#x1f4c8; GitHub Stats
 
