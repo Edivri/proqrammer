@@ -2,11 +2,13 @@
 ## I Am A Mobile Engineer <br>
 With a thorough understanding of software design and architectures, <br>
 Data Structures and Algorithms  <br>
-API Design and Best Practices (REST, GraphQL, Mocky, Postman, MockAPI) <br>
+API Design, Automation and Best Practices (REST, GraphQL, Mocky, Postman, MockAPI) <br>
+Test-Driven Developemt
 
 ### Architecture: MVC / BLoC / MVVM / CLEAN
 ### ToolKit: Flutter 💙 / SwiftUI 🧡 / Jetpack Compose 💚 / Figma
-### Test(Automation): Appium Framework  / WebdriverIO Framework / Cucumber Behavior-Driven Development 
+### Test: Mocha / Chai / Sinon
+### Automation: Appium Framework  / WebdriverIO Framework / Cucumber Behavior-Driven Development 
 ## 🛠&nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/-Java-ffffff?style=flat&logo=java&logoColor=007ACC)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-ffffff?style=flat&logo=kotlin&logoColor=007ACC)&nbsp;
