@@ -5,8 +5,10 @@ Data Structures and Algorithms  <br>
 API Design and Best Practices (REST, GraphQL, Mocky, Postman, MockAPI) <br>
 
 ### Architecture: MVC / BLoC / MVVM / CLEAN
-### ToolKit: Flutter 💙 / SwiftUI 🧡 / Jetpack Compose 💚 / Figma UI-UX / Motion Design
+### ToolKit: Flutter 💙 / SwiftUI 🧡 / Jetpack Compose 💚 / Figma
+### Test/Automation: Appium Framework  / WebdriverIO Framework / Cucumber Behavior-Driven Development Framework
 ## 🛠&nbsp;Tech Stack
+![Java](https://img.shields.io/badge/-Java-ffffff?style=flat&logo=java&logoColor=007ACC)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-ffffff?style=flat&logo=kotlin&logoColor=007ACC)&nbsp;
 ![Swift](https://img.shields.io/badge/-Swift-ffffff?style=flat&logo=swift&logoColor=007ACC)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-ffffff?style=flat&logo=dart&logoColor=007ACC)&nbsp;
