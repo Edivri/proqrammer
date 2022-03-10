@@ -11,7 +11,7 @@ With over 4+ years of experience, I plan, build and test beautiful, stable and h
 ### Databases: SQLite / Sequelize / Firebase / Room / Realm
 ### State Management: Vanilla / Provider / Riverpod / BLoC 
 ### UIKit: Flutter 💙 / SwiftUI 🧡 / Jetpack Compose 💚 / Figma
-### Test: Mocha / Chai / Sinon
+### Test: Mocha / Chai / Sinon / Cypress / Jest
 ### Automation: Appium Framework / WebdriverIO Framework / Cucumber Behavior-Driven Development 
 ## 🛠&nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/-Java-ffffff?style=flat&logo=java&logoColor=007ACC)&nbsp;
