@@ -7,7 +7,7 @@ Test-Driven Development <br>
 
 With over 4+ years of experience, I plan, build and test beautiful, stable and high-quality native and hybrid mobile applications in a modern and efficient way, via mobile automation engineering and quality engineering that provide clear visibility into test coverage and execution reports that are easily extendable in a software delivery cycle and process.
 
-### Architecture: MVC / MVVM / CLEAN
+### Architecture: MVC / MVVM / CLEAN / V.I.P.E.R
 ### Databases: SQLite / Sequelize / Firebase / Room / Realm
 ### State Management: Vanilla / Provider / Riverpod / BLoC 
 ### UIKit: Flutter 💙 / SwiftUI 🧡 / Jetpack Compose 💚 / Figma
