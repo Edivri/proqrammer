@@ -5,7 +5,7 @@ Data Structures and Algorithms  <br>
 API Design and Best Practices (REST, GraphQL, Mocky, Postman, MockAPI) <br>
 Test-Driven Development <br>
 
-With over 4+ years of experience, I plan, build and test beautiful, stable and high-quality native and hybrid mobile applications in a modern and efficient way, via mobile automation engineering and quality engineering that provide clear visibility into test coverage and execution reports that are easily extendable in a software delivery cycle and process.
+With over 6+ years of experience, I plan, build and test beautiful, stable and high-quality native and hybrid mobile applications in a modern and efficient way, via mobile automation engineering and quality engineering that provide clear visibility into test coverage and execution reports that are easily extendable in a software delivery cycle and process.
 
 ### Architecture: MVC / MVVM / CLEAN / V.I.P.E.R
 ### Databases: SQLite / Sequelize / Firebase / Room / Realm
