@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Benjamin
-## I Am A Software Engineer <br>
+## I Am A Mobile Engineer <br>
 With a thorough understanding of software design principles and architectures, <br>
 Data Structures and Algorithms  <br>
 API Design and Best Practices (REST, GraphQL, Mocky, Postman, MockAPI) <br>
