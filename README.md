@@ -9,8 +9,8 @@ With over 6+ years of experience, I plan, build and test beautiful, stable and h
 
 ### Architecture: MVC / MVVM / CLEAN / V.I.P.E.R
 ### Databases: SQLite / Sequelize / Firebase / Room / Realm
-### State Management: Vanilla / Provider / Riverpod / BLoC 
-### UIKit: Flutter 💙 / SwiftUI 🧡 / Jetpack Compose 💚 / Figma
+### State Management: Vanilla / Provider / Riverpod / BLoC / Redux
+### UI Kit: Flutter 💙 / SwiftUI 🧡 / Jetpack Compose 💚 / ReactJS ⚛️ / Figma
 ### Test: Mocha / Chai / Sinon / Cypress / Jest
 ### Automation: Appium Framework / WebdriverIO Framework
 ## 🛠&nbsp;Tech Stack
