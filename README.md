@@ -13,7 +13,7 @@ With over 6+ years of experience, I plan, build and test beautiful, stable and h
 ### UIKit: Flutter 💙 / SwiftUI 🧡 / Jetpack Compose 💚 / Figma
 ### Test: Mocha / Chai / Sinon / Cypress / Jest
 ### Automation: Appium Framework / WebdriverIO Framework
-### Cloud: AWS Lambda / DynamoDB / Google Cloud Functions
+### Cloud: AWS Lambda & Serverless API /AWS DynamoDB / Google Cloud Functions
 ## 🛠&nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/-Java-ffffff?style=flat&logo=java&logoColor=007ACC)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-ffffff?style=flat&logo=kotlin&logoColor=007ACC)&nbsp;
