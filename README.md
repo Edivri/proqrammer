@@ -1,24 +1,26 @@
 # Hi there 👋, I'm Benjamin
-## I Am A Mobile Engineer <br>
+## I Am A Software Engineer <br>
 With a thorough understanding of software design principles and architectures, <br>
 Data Structures and Algorithms  <br>
 API Design and Best Practices (REST, GraphQL, Mocky, Postman, MockAPI) <br>
 Test-Driven Development <br>
 
-With over 6+ years of experience, I plan, build and test beautiful, stable and high-quality native and hybrid mobile applications in a modern and efficient way, via mobile automation engineering and quality engineering that provide clear visibility into test coverage and execution reports that are easily extendable in a software delivery cycle and process.
+With over 6+ years of experience, I plan, build and test beautiful, stable and high-quality native and hybrid mobile and front-end applications in a modern and efficient way.
 
 ### Architecture: MVC / MVVM / CLEAN / V.I.P.E.R
 ### Databases: SQLite / Sequelize / Firebase / Room / Realm
-### State Management: Vanilla / Provider / Riverpod / BLoC / Redux
-### UI Kit: Flutter 💙 / SwiftUI 🧡 / Jetpack Compose 💚 / ReactJS ⚛️ / Figma
+### State Management: Vanilla / Provider / Riverpod / BLoC 
+### UIKit: Flutter 💙 / SwiftUI 🧡 / Jetpack Compose 💚 / Figma
 ### Test: Mocha / Chai / Sinon / Cypress / Jest
 ### Automation: Appium Framework / WebdriverIO Framework
+### Cloud: AWS Lambda / DynamoDB / Google Cloud Functions
 ## 🛠&nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/-Java-ffffff?style=flat&logo=java&logoColor=007ACC)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-ffffff?style=flat&logo=kotlin&logoColor=007ACC)&nbsp;
 ![Swift](https://img.shields.io/badge/-Swift-ffffff?style=flat&logo=swift&logoColor=007ACC)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-ffffff?style=flat&logo=dart&logoColor=007ACC)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-ffffff?style=flat&logo=flutter&logoColor=007ACC)&nbsp;
+![ReactJS](https://img.shields.io/badge/-React-ffffff?style=flat&logo=react&logoColor=007ACC)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat&logo=javascript&logoColor=fad63d)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-ffffff?style=flat&logo=typescript&logoColor=fad63d)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-ffffff?style=flat&logo=node.js)&nbsp;
