@@ -2,18 +2,11 @@
 ## I Am A Mobile Engineer <br>
 With a thorough understanding of software design principles and architectures, <br>
 Data Structures and Algorithms  <br>
-API Design and Best Practices (REST, GraphQL, Mocky, Postman, MockAPI) <br>
+API Design and Best Practices 
 Test-Driven Development <br>
 
 With over 6+ years of experience, I plan, build and test beautiful, stable and high-quality native and hybrid mobile and front-end applications in a modern and efficient way.
 
-### Architecture: MVC / MVVM / CLEAN / V.I.P.E.R
-### Databases: SQLite / Sequelize / Firebase / Room / Realm
-### State Management: Vanilla / Provider / Riverpod / BLoC 
-### UIKit: Flutter 💙 / SwiftUI 🧡 / Jetpack Compose 💚 / Figma
-### Test: Mocha / Chai / Sinon / Cypress / Jest
-### Automation: Appium Framework / WebdriverIO Framework
-### Cloud: AWS Lambda & Serverless API /AWS DynamoDB / Google Cloud Functions
 ## 🛠&nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/-Java-ffffff?style=flat&logo=java&logoColor=007ACC)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-ffffff?style=flat&logo=kotlin&logoColor=007ACC)&nbsp;
