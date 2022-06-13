@@ -2,8 +2,8 @@
 ## I Am A Mobile Engineer <br>
 With a thorough understanding of software design principles and architectures, <br>
 Data Structures and Algorithms  <br>
-API Design and Best Practices 
-Test-Driven Development <br>
+API Design and Best Practices <br>
+and Test-Driven Development <br>
 
 With over 6+ years of experience, I plan, build and test beautiful, stable and high-quality native and hybrid mobile and front-end applications in a modern and efficient way.
 
