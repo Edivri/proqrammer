@@ -5,7 +5,7 @@ Data Structures and Algorithms  <br>
 API Design and Best Practices <br>
 and Test-Driven Development <br>
 
-With over 6+ years of experience, I plan, build and test beautiful, stable and high-quality native and hybrid mobile applications and Web Applications in a modern and efficient way.
+And over 6+ years of experience, I plan, build and test beautiful, stable and high-quality native and hybrid mobile applications and Backend Services in a modern and efficient way.
 
 ## 🛠&nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/-Java-ffffff?style=flat&logo=java&logoColor=007ACC)&nbsp;
